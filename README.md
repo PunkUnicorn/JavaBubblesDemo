@@ -22,10 +22,12 @@ Bubbles native broad phase collision detection engine used in Hock-Chuan Chua Bo
 
 http://www.ntu.edu.sg/home/ehchua/programming/java/J8a_GameIntro-BouncingBalls.html
 
-`/** 
-`* The bouncing ball. 
-`* 
-`* @author Hock-Chuan Chua 
-`* @version v0.4 (31 October 2010) 
-`* 
-`*/
+```
+/** 
+* The bouncing ball. 
+* 
+* @author Hock-Chuan Chua 
+* @version v0.4 (31 October 2010) 
+* 
+*/
+```
